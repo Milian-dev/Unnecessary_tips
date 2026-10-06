@@ -1,490 +1,489 @@
-蜜蜂可以识别人的面孔。
-海星没有大脑，但它们能够感知周围的环境。
-世界上最长的街道是加拿大的Yonge Street，长度达1896公里。
-人类的胃酸足以溶解金属，但胃壁有一层保护膜，防止其被腐蚀。
-章鱼有三个心脏，其中两个用于给腮供血，另一个用于给身体供血。
-你出生时的骨头数量比你成年时还要多，成年人体内有206块骨头，而新生儿有超过270块骨头。
-斑马的条纹是独一无二的，就像人类的指纹一样。
-袋鼠无法向后跳。
-太阳的质量占据了整个太阳系质量的99.86%。
-人类的鼻子可以区分出超过一万种不同的气味。
-香蕉是天然的辐射源，因为它们含有钾-40这种放射性同位素。
-海马是唯一一种由雄性怀孕的动物。
-蜗牛可以睡上三年，特别是在食物缺乏的情况下。
-牛的眼睛可以看到360度的视野，几乎没有盲区。
-猫咪的心跳比人类快，大约每分钟140到220次。
-人类与香蕉的DNA相似度大约是60%。
-鲸鱼的歌声可以传播数百公里，有时甚至可以传到不同的海洋。
-大象是唯一不怕蚂蚁的动物。
-有些乌龟可以通过嘴巴呼吸。
-火烈鸟的颜色来自它们的食物，主要是从藻类和小虾中获得的类胡萝卜素。
-企鹅是唯一一种不会飞的鸟，但它们游泳速度非常快，可以达到每小时36公里。
-树懒每天大约有20小时是在睡觉或休息。
-土星的环并不是固体物质，而是由数以亿计的冰雪颗粒组成。
-人类的眼睛在一生中大约能够眨眼42亿次。
-世界上最轻的金属是锂，比水还要轻。
-奥斯卡奖杯的高度为34厘米，重量为3.8公斤，由80%的黄金和20%的银组成。
-袋鼠的跳跃速度可以达到每小时72公里。
-鲸鱼的舌头重量相当于一辆象车。
-猫的胡须不仅用于感觉，还可以帮助它们在黑暗中判断空间。
-树木之间通过地下的真菌网络进行信息交流，类似于“森林的互联网”。
-人类的唾液每天大约能分泌1到1.5升。
-一只大象的怀孕期是22个月，是所有陆地动物中最长的。
-蝙蝠是唯一能够持续飞行的哺乳动物。
-蜘蛛丝比钢铁更强韧，同等重量的蜘蛛丝能承受的拉力比钢铁还大。
-金鱼的记忆并不是三秒钟，它们的记忆可以持续几个月。
-世界上最小的鸟是蜂鸟，它们的体重大约只有2.6克。
-人类的指甲生长速度大约是每月3毫米。
-土耳其的某些地方有“温泉水上游”，温暖的泉水通过管道流经街道，居民可以随时浸泡。
-马可以睡觉时站着，也可以躺着睡。
-某些种类的蚂蚁能形成“浮动岛”，通过把自己和同伴聚集在一起漂浮在水面上。
-海豚有名字，并且通过不同的叫声来辨识彼此。
-章鱼的血是蓝色的，因为它含有铜基的血红蛋白。
-树木通过释放香气来吸引或驱赶昆虫，作为保护机制。
-猫咪的耳朵可以旋转180度，帮助它们在不同方向听到声音。
-宇航员在太空中会比在地球上长高约2到5厘米，因为重力较小，脊柱不受压缩。
-月亮每年离地球大约远离3.8厘米。
-人类的皮肤大约有200多个不同种类的细菌，绝大多数是无害的。
-松鼠的前牙永远不会停止生长，因此它们需要不断磨牙。
-海马是鱼类中唯一一种由雄性负责怀孕并产卵的物种。
-蜂鸟可以倒着飞，也是唯一能悬停的鸟类。
-袋熊的粪便是立方体形状，有助于标记领地时不易滚落。
-北极的冰实际上是淡水冰，而南极的冰盖储存了全球约70%的淡水。
-鳄鱼无法伸出舌头，它们的舌头被固定在嘴巴底部。
-人的胃每三到四天就会完全更换一次内壁组织，以防止被胃酸腐蚀。
-有些乌贼拥有三颗心脏，其中两颗负责为鳃供血，一颗负责为全身供血。
-蜻蜓的飞行速度可以达到每小时56公里，是昆虫中最快的。
-南极洲实际上是地球上最大的沙漠，按降水量计算。
-彩虹其实是圆形的，只是在地面上我们只能看到一部分圆弧。
-人类平均每天会掉落大约50到100根头发。
-北极熊的皮肤其实是黑色的，毛发是透明的，只是看起来是白色的。
-闪电的温度可以达到3万摄氏度，比太阳表面还要高5倍。
-蜂群中的工蜂一生大约只能生产一汤匙的蜂蜜。
-地球上的氧气最早来自蓝藻的光合作用，约在24亿年前开始。
-水熊虫（缓步动物）能在真空、强辐射和极低温度下生存。
-人类的DNA和黑猩猩的相似度高达98.8%。
-银河系每秒大约诞生7颗新恒星。
-地球的内核温度接近6000摄氏度，几乎与太阳表面温度相同。
-火山爆发时释放出的能量可以比数百颗核弹还要强大。
-树木通过叶片上的气孔进行气体交换，同时调节水分蒸发和温度。
-深海里有些鱼类能发出自己的光，这是生物发光现象。
-地球上99%以上的物种已经灭绝。
-银杏树被称为“活化石”，已经在地球上生存了超过2亿年。
-大象可以用超声波进行远距离交流，人耳听不到。
-宇宙中绝大多数的物质是暗物质和暗能量，人类对它们几乎一无所知。
-蜂鸟的心跳在飞行时可以达到每分钟1200次。
-人体内的铁足够制造一颗两厘米长的小钉子。
-蝴蝶的味觉感受器长在它们的脚上。
-地球大气层的厚度相对于地球来说，比例大约相当于苹果上的果皮那么薄。
-地球磁场每几十万年会发生一次磁极反转。
-有些珊瑚是动物和植物的共生体，珊瑚虫与藻类共存才能存活。
-地球自转速度正在逐渐变慢，每过几百万年，地球上的一天就会更长一些。
-闪电可以在火山喷发时产生，叫做“火山闪电”。
-大多数哺乳动物都能合成维生素C，唯有人类、猿类和豚鼠失去了这项能力。
-木星上最大的风暴“大红斑”已经存在了至少350年。
-地球上最坚硬的天然物质是钻石，但某些实验室制造出的材料已经超过钻石硬度。
-金星自转方向与其他行星相反，太阳在它的天空中是从西边升起。
-深海里有一种“吸血鬼乌贼”，虽然名字可怕，但它主要吃有机碎屑。
-在地球深处约150公里以下，有可能存在“钻石雨”。
-北极光和南极光是高能带电粒子与地球磁场相互作用产生的发光现象。
-人一年呼吸大约一亿次。
-人体有六百条以上的肌肉：微笑只需要17条肌肉，而皱眉需要24条。
-人吃太饱听力会变差。
-手指甲的生长速度是脚趾甲的4倍。
-你的胃每两周就会长出一层新的黏膜，否则它会自我消化。
-成年人每天平均要产生约1.5升的口水。
-人类胎儿在三个月大时就有指纹了。
-小孩子的骨头数量比成年人多100根以上，这是因为关节附近有一些骨头会融合。
-打喷嚏时无法睁着眼睛。
-血管长度可以绕地球两圈以上。
-血液在你的身体中循环一圈需约20秒。如果一个人活到80岁，血液会在他体内循环12亿次以上。
-戴一小时耳机，耳朵里的细菌可增加700倍。
-人类消化系统大约9米长。
-人的大脑大约有860亿个神经元，约重1.4公斤。
-屁股的作用是维持我们奔跑时的稳定性。
-尿液在显微镜下非常漂亮，呈现七彩的晶体。
-正常体重下，两只拳头的周长大致接近肾脏的周长。
-你的身体大概包含7万亿到30万亿个细胞。
-体内细菌的数量比体细胞还多，总重量大约在3斤左右。
-你的大脑大约有250GB到5TB的存储容量。
-人一天大约产生30万到60万个皮肤死细胞，也就是说你家里的灰尘很多来自你身体上的掉屑。
-你体内的铁元素可以制造一枚4公分长的钉子。
-人舔不到自己的手肘。
-人的眼睛能分辨超过1000万种颜色。
-成年人的骨髓每天大约制造2亿个红细胞。
-心脏一生大约跳动30亿次左右。
-人的听觉可以感知20赫兹到20000赫兹的频率范围。
-每个人身上都有大约2平方米的皮肤。
-人类大脑的能量消耗约占人体总能量的20%。
-人体内最长的细胞是腿部的坐骨神经，长达一米多。
-人类肠道内的微生物种类超过1000种。
-人体内每秒大约有2500万个细胞死亡并被替换。
-人类眼泪含有天然的杀菌酶，能防止眼部感染。
-人的骨骼在30岁前后最为致密，之后逐渐减少。
-人在太空中会因为失重而变高2到5厘米。
-耳垢其实是一种天然的耳道清洁剂，能防止灰尘和细菌进入。
-舌头上味蕾的数量约为2000到8000个。
-人的牙釉质是人体内最坚硬的组织。
-婴儿出生时膝盖其实是软骨，到2~6岁才逐渐骨化成型。
-静脉中的血其实也是红色的，看起来发蓝只是光的折射作用。
-人在夜晚的身高会比早晨矮1-2厘米，因为脊椎在白天会被压缩。
-大多数人在睡觉时会平均做4到6个梦，但醒来后往往只记得很少一部分。
-人的打喷嚏速度可以达到每小时160公里。
-可乐最早是作为药品发明的，用于治疗消化不良和神经疲劳。
-微波炉加热食物的原理是激发水分子震动生热。
-冰淇淋吃太快会引发所谓的“脑冻”，其实是脑部血管突然收缩所致。
-人在完全安静的环境里，能听到自己心脏跳动、血液流动的声音。
-不锈钢其实会生锈，只是速度远远低于普通钢材。
-番茄在植物学上属于水果，但在烹饪上一般当蔬菜使用。
-世界上最长寿的灯泡已经连续亮了120多年。
-绝大多数手机其实比登月用的阿波罗飞船计算机还要强大几百万倍。
-人的指甲在夏天比冬天长得更快。
-咖啡豆其实是咖啡树果实里的种子。
-洗手时用冷水和温水去除细菌的效果几乎没区别，关键是洗手时间和揉搓力度。
-牛奶中的乳糖不耐症是人类进化过程中的一种变异，本来成年后就不应再能消化乳糖。
-薯片袋里充的不是空气，而是氮气，防止氧化和碎裂。
-全世界每天约消耗掉20亿杯咖啡。
-有些洗发水里的“无硅油”其实对头皮并没有绝对好坏，更多是一种市场标签。
-打哈欠其实具有“社交传染性”，看到别人打哈欠时大脑镜像神经元会被激活。
-人的嘴唇是全身皮肤最薄的地方，只有大约3~5个细胞层。
-蜂蜜是少数可以几乎永远不腐坏的天然食物。
-切洋葱时流泪，是因为释放出的硫化物与眼泪中的水反应生成硫酸。
-马桶的冲水方向在赤道两侧略有不同，这是科里奥利效应的一种微弱表现。
-冰块比水更容易导电，因此含冰饮料被泼到电子设备上时更容易短路。
-雨后的泥土有股“土腥味”，那其实是放线菌产生的土臭素。
-牙膏中加入薄荷味，除了清新，还能通过刺激神经减少口腔疼痛感。
-微波炉里的食物容易出现“加热不均匀”是因为部分位置形成驻波节点。
-左撇子在世界人口中占比大约10%，但他们在某些体育项目上具有天然优势。
-洗衣服时的柔顺剂原理是让衣物表面带有微弱静电，从而减少摩擦。
-绝大多数飞机餐其实在地面上就已经完全烹饪好，只需在高空简单加热。
-手机震动功能其实是靠一个不平衡的小电机快速旋转产生离心力。
-蚊子更喜欢叮咬体温高、呼吸频率快、代谢旺盛的人。
-塑料瓶盖比瓶身更难降解，是因为材质不同，瓶身通常用PET，瓶盖用HDPE。
-人在长期暴露蓝光环境下容易抑制褪黑素分泌，影响睡眠。
-电梯内的镜子最早是为了缓解乘客的等待焦虑而设计的。
-牛奶泡茶时应先倒茶再倒奶，这样能防止蛋白质因高温凝结。
-香菜的“臭味”其实是一部分人基因决定的，他们会把香菜中的醛类物质识别为肥皂味。
-泡面里的“防腐剂”其实很少，主要靠脱水保存。
-光脚踩在瓷砖上觉得凉，是因为瓷砖导热快而不是温度低。
-感冒其实不是因为受寒，而是病毒感染，只是寒冷天气让病毒更容易传播。
-超市里的背景音乐节奏通常偏慢，目的是让顾客放慢脚步、多逛一会儿。
-人醒着的时候比睡觉时多消耗约15%的卡路里。
-衣服晾在阴凉通风处，有时比暴晒更容易干，因为强风能加速蒸发。
-指甲在利手（常用手）一侧通常长得比另一只手更快。
-闻柑橘类气味可以短暂提升人的注意力和专注度。
-咬冰块对牙釉质伤害很大，容易造成微裂纹。
-现代纸币其实并不完全是纸，大多由棉纤维与聚合物混合制成。
-可乐倒进生锈的螺丝孔里能帮助去锈，因为含有磷酸。
-香蕉的自然“弯曲”是因为向光性，生长时会主动往光亮处弯曲。
-彩色打印机里的黑色墨水叫“K色”，因为用“B”容易和蓝色（Blue）混淆。
-咖啡刚煮好时其实苦味较淡，放凉后苦味会明显增强。
-室内植物能改善空气湿度，但净化空气效果其实非常有限。
-蜂蜜如果自然结晶，其实是正常现象，说明蜂蜜纯度高。
-苹果切开后变色，是因为果肉中的酚类被空气氧化产生褐变。
-高铁座椅靠背上有挂钩，设计初衷是挂外套或购物袋，不是装饰。
-头发在潮湿环境下更容易断裂，因为角蛋白吸水膨胀后韧性下降。
-咳嗽时用手捂嘴，会把大量飞沫直接集中到手上，更容易传播病菌。
-超声波清洗机其实是靠“空化效应”把污渍震出来的。
-酒店床单一般都是纯白色，方便漂洗高温消毒和检测污渍。
-牙线的清洁效果比牙刷重要得多，但经常被忽视。
-大部分人的左右眼视力其实存在微小差距，只是日常中不容易察觉。
-大部分电梯按钮其实在按下后立刻响应，反复按并不会加快速度。
-机场跑道编号来源于其磁方位角度，例如“09”代表90度正东。
-新买的衣服有时带有“新衣味”，其实是防皱和抗菌处理残留的化学物质。
-LED灯泡并不容易吸引昆虫，因为几乎不产生紫外光。
-冰箱门越频繁打开，内部结霜速度就越快。
-行驶中的汽车轮胎，其实与地面接触面积仅有一张明信片大小。
-人站在山顶会感到耳鸣，是因为气压降低导致耳膜鼓膜微张。
-打包饭盒里的“干燥剂”大多是二氧化硅，不能食用，但也不含毒性。
-塑料瓶底部的数字标识代表材质种类，并非可重复使用的次数。
-剃须刀片其实不是越多越好，刀片越多越容易拉扯皮肤。
-雨后路上常有蚯蚓爬出地面，是因为土壤含氧量降低，它们出来换气。
-口香糖并不会被胃部消化，但通常会顺利排出体外。
-新鲜牛奶呈微微蓝色，是因为蛋白质折射光线的缘故。
-红葡萄酒中的单宁会与口腔蛋白质结合，产生“涩感”口感。
-人体皮肤的汗腺总数大约有300万个。
-洗澡水温超过40°C容易破坏皮肤表层油脂屏障。
-长时间使用耳机容易导致耳道湿度上升，滋生细菌。
-地铁列车大多使用“钢轮钢轨”系统，效率远高于橡胶轮胎。
-常见食盐中的“加碘”政策，有效预防了甲状腺肿大（大脖子病）大面积流行。
-睡觉时枕头高度过高会影响颈椎曲线，长期易导致颈肩不适。
-感冒并不是因为受凉，而是病毒感染，寒冷只是让病毒更容易传播。
-尿液在正常状态下其实是无菌的。
-打雷时闪电其实先发生，打雷的声音是光速与音速差距造成的延迟。
-人的体温并不是恒定的37°C，健康人群波动范围可在36.1°C到37.2°C之间。
-咖啡其实不会真正“补充能量”，而是暂时抑制了大脑的疲劳信号。
-指甲剪掉后并不会感觉痛，是因为指甲本身没有神经。
-地球上最多的氧气并不来自森林，而是来自海洋中的浮游植物。
-人的骨头比钢铁更坚硬（单位重量下的抗压强度）。
-剃毛不会让毛发变粗，那只是新长出的毛发截面看起来更粗。
-北极并不是地球上最冷的地方，南极比北极冷得多。
-维生素C并不能直接治感冒，只是在预防上有轻微辅助作用。
-塑料吸管禁用的环保意义其实非常有限，塑料污染的主要来源是渔网和大型塑料垃圾。
-人的脑容量和智商之间并没有直接正比关系。
-糖尿病患者能吃糖，重点在于控制总摄入量与血糖管理。
-闪电可以在没有下雨的天空中出现，这种现象叫“干闪电”。
-香蕉其实是浆果，而草莓在植物学上反而不算真正的“浆果”。
-人真正开始衰老的速度其实在25岁后就已逐渐启动。
-头发的“分叉”是因为角蛋白链断裂，跟营养补充关系不大。
-摩天大楼在设计时会允许轻微晃动来抵御强风和地震。
-微波炉加热其实并不会破坏营养，比煮熟、煎炸更保留营养成分。
-金鱼的记忆并不是三秒，而是可以长达数月。
-闪电可以多次击中同一地点，尤其是高楼、塔尖。
-维生素片吃太多反而可能对身体有害。
-跑步时膝盖并不会因此受损，合理跑步反而对膝盖有保护作用。
-太空中并不是完全“无重力”，而是“微重力”环境。
-冰川其实是流动的，只是速度极慢。
-牛奶不含铁，所以婴儿长期只喝牛奶容易贫血。
-头发长时间湿着睡觉并不会直接感冒，但易滋生细菌和真菌感染。
-喝冰水不会让脂肪燃烧变快，消耗的热量极其微小。
-手机夜间护眼模式能减少蓝光刺激，但无法完全避免生物钟紊乱。
-宇航员在太空其实不会“漂浮不动”，身体会持续缓慢移动。
-灯泡其实并不会越亮越费电，LED在高亮度下能更高效。
-打哈欠的主要功能并不是缺氧，而是帮助大脑降温。
-“出汗能排毒”其实是误解，大部分毒素靠肝脏与肾脏代谢排出。
-血液呈红色是因为血红蛋白中的铁离子，而不是血本身的颜色。
-手机飞行模式并不能完全屏蔽辐射，只是中断信号通讯。
-巧克力中的可可碱对狗有毒，但人可以安全代谢。
-骨头骨折时疼痛主要来自断裂周围组织的损伤，而不是骨头本身。
-多喝水不能“冲淡血糖”，血糖靠胰岛素调节。
-人的视觉盲点每天都在填补，大脑实时自动修补我们看不到的区域。
-汉语中最常用的一个字是“的”。
-世界上使用人数最多的语言是英语，但母语人数最多的是汉语。
-“你”这个字在古汉语中原指尊称，“汝”才是普通用法。
-世界上最长的单词来自化学领域，有18万个字母，是某种蛋白质的化学名称。
-日语中的“ありがとう”（谢谢）本义是“难得发生的事”。
-韩语的字母系统（韩文）是人为设计的，发明者是世宗大王。
-英语中“set”是拥有最多释义的单词，词典中有超过430种意思。
-“Emoji”这个词源自日语“絵文字”，不是“emotion + icon”的缩写。
-法语里数字“80”是“四二乘二十”（quatre-vingts），而不是八十。
-意大利语中“ciao”既可以表示“你好”，也可以表示“再见”。
-汉字“囍”其实不是异体字，是“喜喜”并列的合文，常用于婚庆。
-中文拼音中的“ü”其实就是德语里的“ü”，音值完全一样。
-俄语的“да”（yes）和“нет”（no）在不同语境中可以互换逻辑，令人困惑。
-古英语中“girl”原意是“年轻人”，可以指男孩也可以指女孩。
-拉丁语没有句号，古文是连续书写的，要靠语感断句。
-在某些非洲语言中，“打嗝”或“舌弹”是语音的一部分。
-语言学上没有“原始语言”这个绝对概念，所有语言都有规则与系统。
-芬兰语中“kalsarikännit”指的是“穿着内衣独自在家喝醉的状态”。
-中文是世界上唯一一个仍在广泛使用表意文字的主要语言系统。
-婴儿在牙牙学语前能分辨几乎所有语言的音位，但之后会被母语“训练”限制感知范围。
-中文里的“他”原本男女通用，直到20世纪才人为区分出“她”“它”等形式。
-古代汉语中“吾”“我”“余”“予”都可以表示“我”，但语气、身份层次不同。
-英语中“goodbye”其实来自“God be with ye”（愿上帝与你同在）。
-“nice”在古英语中原意是“愚蠢的”，后经多次语义转变才成了“好”。
-法语中“chaussette”（袜子）源自拉丁文“calceus”，意思是“鞋子”。
-“robot”（机器人）来自捷克语，原意是“苦力”“强制劳动者”。
-汉字“爱”在古代的写法中没有“心”字，现代结构是简化中的复古改造。
-日语中的“すみません”（对不起）原意更接近“让我感到不安”，表达歉意只是延伸用法。
-世界上有些语言是“哨语”，靠口哨进行交流，如土耳其的库什德语。
-现代英文拼写混乱很大一部分是因为古腾堡印刷术推广时拼写尚未统一。
-“window”在英语中来自古挪威语“vindauga”，意思是“风之眼”。
-德语中名词首字母必须大写，这是世界上极少数有此规定的语言。
-拉丁文中没有“J”和“W”这两个字母，都是后来才发展出来的。
-在语言学中，“双重否定”在很多语言中表示加强语气，而不是“肯定”。
-芬兰语几乎没有未来时态，它用现在时配合上下文表达未来。
-阿拉伯语从右向左书写，但数字却从左往右写，是世界上唯一“双向混合”的主流书写系统。
-汉语成语“四面楚歌”的“歌”是楚人唱的歌，不是“歌颂”而是“心理打击”。
-“OK”最早可能是美国一位总统竞选时的玩笑缩写，意为“all correct”故意拼成“oll korrect”。
-“hamburger”不是“火腿堡”的意思，它起源于德国汉堡（Hamburg）这座城市。
-很多语言中“妈妈”的词根都类似“ma”，是因为婴儿本能发音偏向双唇音。
-世界上唯一一个“没有母语”的语言是世界语（Esperanto），它是人造的，但至今有很多孩子是以它为第一语言成长的。
-日语里“失礼します”不仅是告辞用语，也可以用来进入房间或打断别人讲话。
-英语中的“wife”源于古英语“wif”，本义是“女性”，现代才变成“妻子”的意思。
-中文的“电脑”是现代新造词，港台早期曾用“电脑机”、“电子脑”甚至“智力机器”。
-韩语中的“oppa”（哥哥）不仅是血缘关系用语，也可用于情侣之间，甚至带点撒娇意味。
-瑞典语里“gift”可以同时表示“已婚”和“有毒”，所以说婚姻是……？
-世界上最长的官方语言名是新西兰的毛利语地名：“Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu”。
-拉丁文没有小写字母，小写是在中世纪为了抄写效率而发明的。
-古埃及象形文字中，有“拉屎的人”的字，真实使用于“厕所”或“排泄”相关文本中。
-日语的汉字读音有“音读”和“训读”，意思是一个字常有两种以上完全不同读法。
-现代汉语拼音中的“z”“c”“zh”等音，在西方人看来是完全反直觉的发音组合。
-“hello”并不是一开始就用于打招呼，它在19世纪初只是表示“喊叫”或“引起注意”。
-世界上最难翻译的词之一是葡萄牙语的“saudade”，表示一种既思念又悲伤又甜美的情绪混合。
-法语中有一种语法现象叫“虚拟式过去完成时”，几乎没人用，但语法书一定会教。
-藏语中的“青稞”叫“ནས་”，是藏区的主粮，也是一种象征身份的语言词汇。
-英语中“they”现在被正式认可为单数性别中立代词，用于不指明性别的人。
-印地语和乌尔都语日常对话几乎一模一样，但书写系统完全不同，前者用天城文，后者用波斯文。
-“alphabet”这个词来自希腊语“alpha + beta”，本义是“字母表”。
-某些语言（如菲律宾语）会在句中用英文单词夹杂，当地人称其为“Taglish”（塔加洛语+English）。
-“语言”这个词的日文是“言語（げんご）”，韩文是“언어（eoneo）”，来源都是汉字“言”。
-“Girl” 在古英语中并不特指女孩，而是泛指“年轻人”，男女都行。
-“Book” 和 “beech”（山毛榉树）有词源关系，因为欧洲早期写字刻在山毛榉木板上。
-英语中“friend”可以作动词，比如 “I friended her on Facebook.”
-“Sheriff” 源自“shire reeve”，意指“郡的执政官”，是中世纪英国的官职名。
-“Muscle” 来自拉丁语“musculus”，原意是“小老鼠”，因为古人觉得肌肉像在皮下爬的老鼠。
-英语中最长没有元音的单词是“rhythms”。
-“Awful” 原意是“充满敬畏的”，与“awesome”意思相近，是后来语义变化才变成“糟糕”。
-“I” 是唯一一个必须大写的英语代词，这是语言中非常罕见的现象。
-“Knight” 的“K”虽然不发音，但在中古英语时期是有读音的，像“kuh-nicht”。
-英语拼写并不统一是因为中世纪印刷术传播时，各地发音差异未统一，但拼法被定格下来。
-英语中的“orange”是一个色彩名称，但最早表示的是水果，颜色用这个词是后来才有的。
-“Goodbye” 源自 “God be with ye”（愿上帝与你同在），经历语音压缩演变成今天的形式。
-“Alphabet” 这个词本身是“Alpha + Beta”，来自希腊文第一个和第二个字母。
-英语中最长的单词之一是 “antidisestablishmentarianism”，但并不是最难的；最长的是化学名称，有18万个字母。
-“Nice” 曾经是骂人的词，在中世纪意为“愚蠢、笨拙”。
-在莎士比亚时代，“thou” 是对熟人或地位低者使用的“你”，“you” 反而是尊称。
-“Pineapple” 原本指的是“松果”，后转指凤梨（因为形似），而不是“苹果”。
-英语中“cleave” 既可以表示“劈开”，也可以表示“紧贴”，是少数同时拥有反义双义的词。
-“Let” 既有“允许”之意，也保留了古义“阻止”，例如网球比赛的“let ball”。
-“Pronunciation” 的拼法故意和“pronounce”不同，是语言学家设计的，强调“名词化”的形式。
-中国古代的“红色”并不总象征喜庆，战国时红色也被用于丧服。
-西方“举杯”源于中世纪的防毒仪式，人们碰杯是为了让酒液混合，以示无毒。
-埃及法老常把自己刻成“半兽”是为了象征神权，而非美学原因。
-日本人吃年糕（お餅）是新年习俗，但年年有人因此噎死，政府每年都发提醒。
-意大利人忌讳13，但巴西人忌讳24，日本人忌讳4和9，数字迷信因文化而异。
-印度用右手吃饭是礼仪，左手被认为是不洁净的。
-古希腊奥运会原本是裸体进行的，运动员为展现人体之美而全裸竞技。
-西藏传统葬礼中有“天葬”，把遗体献给秃鹫，被认为是一种尊重自然的方式。
-西方婚礼中的“戴戒指在左手无名指”起源于古埃及人认为那根手指直通心脏。
-韩国人在出生时默认1岁，而不是0岁，这是他们的“虚岁”传统。
-在马达加斯加，有的族群会定期把祖先的遗体取出跳舞，表示思念。
-越南春节时忌扫地，认为会把好运扫走，这与中国“年初一不扫地”传统类似。
-阿拉伯国家普遍不吃猪肉，不仅出于宗教，也是因为猪在沙漠中难以饲养。
-欧洲中世纪城堡设计中的“旋转楼梯”多为顺时针，是为了右手持剑的守卫防御方便。
-英国下午茶原本是女贵族打发“晚饭前饥饿”的私人习惯，后来才流行。
-泰国皇室极为神圣，侮辱王室可判重刑，连踩泰铢上的头像都可能违法。
-中国古代有“重男轻女”但也有“女主中馈”，妇女掌厨和财权极常见。
-中东斋月期间，白天不能饮食，但夜间常有丰盛的“破斋”聚餐。
-西方“黑猫不祥”起源于中世纪女巫传说，而在日本黑猫反而象征好运。
-玛雅文明没有金属工具，却能精准计算日食与行星周期，历法精度惊人。
-在蒙古，递东西给别人用右手同时轻触右臂被视为礼貌举止。
-非洲马赛人不会以“你好吗”打招呼，而是问：“你们的牛好吗？”
-阿根廷人晚餐时间非常晚，常常要到晚上9点以后才开始吃。
-在俄罗斯，空手登门是不礼貌的，即使只带一包糖果也比空手强。
-在泰国，摸别人的头是一种极大的冒犯，即使是小孩也不可以随便摸头。
-西方圣诞老人的“红衣装扮”是1930年代由可口可乐广告定型普及的。
-印度人婚礼动辄三天三夜不稀奇，仪式复杂到外人常常跟不上节奏。
-越南人扫墓叫“清明”，但会在正月前后进行“春节扫墓”，跟中式清明不同。
-美国人不擅长用筷子，但韩国和日本用筷子的方式也不一样，日本是木筷偏细，韩国多用金属筷且带纹。
-在芬兰，“坐公共桑拿”是一种日常社交行为，和赤裸不代表任何羞耻。
-在墨西哥，“亡灵节”是缅怀死者的节日，但氛围是喜庆的，人们会吃“骷髅糖”、化骷髅妆。
-阿拉伯传统待客方式里，招待三杯茶分别象征“生命”“爱情”“死亡”。
-尼日利亚有250多种语言，是世界上语言最多样的国家之一。
-在瑞士，法律禁止在晚上十点后冲马桶（公寓楼中），为的是避免噪音扰民。
-在伊朗，习惯上第一次邀请往往是假客气，对方要坚持三次才会“真请你吃饭”。
-中国古代“避讳”文化极强，连皇帝的名讳都不能写，甚至要改字避开。
-在埃塞俄比亚，他们采用自己的“13个月”日历系统，与格里历有7~8年误差。
-在日本，“沉默”常被视为一种礼貌和深思熟虑的表达，而非尴尬。
-在挪威，圣诞节期间人们会藏起扫帚，源自古老迷信：防止女巫飞行。
-在伊斯兰国家，斋月期间日出到日落都不能饮食、吸烟、喝水，违者属重大冒犯。
-在冰岛，电话簿是按人名排列而不是姓氏，因为那里没有“姓”，只有父名或母名。
-在埃及婚礼上，新娘被允许用脚踩新郎，寓意未来能掌控家庭主导权。
-中国古代女子忌讳名字中有“贞”“烈”字，否则可能一生被道德束缚。
-在肯尼亚某些部落，向人吐口水是一种祝福的礼仪，象征“好运”。
-在西班牙，跨年时人们会在午夜钟声响起的12秒内吃下12颗葡萄，每颗象征一个月的好运。
-在日本，收红包时必须表示拒绝几次再接受才显得得体。
-在印度，婚礼前会举行一种“涂黄姜”仪式，用姜黄粉涂新郎新娘身体，以示净化与祝福。
-古代中国皇宫内“冷宫”不是某个具体房间，而是泛指失宠妃子的幽禁区域。
-在丹麦，如果你30岁还没结婚，朋友可能会把肉桂粉撒你一身，这是调侃但带点催婚意味的传统。
-在中国南方部分地区，葬礼有请“哭丧人”的传统，哭得越响说明孝心越深。
-在法国，“留胡子”在某些场合象征哲思与成熟，而在日本职场中可能会被认为“不干净”。
-在德国，生日当天提前祝福被认为是大不吉利的事情。
-在新西兰的毛利文化中，“贴鼻子”是表示欢迎和分享生命气息的传统问候方式。
-在巴厘岛，婴儿出生后前三个月不能碰地，以示神圣未沾尘世。
-在菲律宾，圣诞季从9月就开始，几乎是世界上最长的圣诞庆典。
-在摩洛哥，喝薄荷茶是待客礼仪，必须由主人倒三轮，分别象征“生命”“爱情”“友谊”。
-在印度尼西亚的巴厘岛，很多人没有姓，名字只根据出生顺序来，比如第一胎叫“Wayan”，第二胎叫“Made”。
-在法国吃面包时，把面包倒扣在桌子上是很不礼貌的，会被认为是“对别人不敬”。
-在中国西南某些民族，成年礼会通过“背母亲一段路”来表达成长与感恩。
-在美国，孩子拔牙后会把牙齿放在枕头下，等“牙仙子”来换钱，这是广泛流传的儿童文化仪式。
-在挪威，学生高考后会穿上特制连体衣（russedress），连疯玩两周庆祝“毕业季”。
-在中国西南苗族传统中，女生会用“甩绣球”来表达对心仪男生的情意。
-在非洲贝宁，巫术（伏都）是一种合法宗教，巫师地位与医生相当。
-在芬兰，扔手机比赛是一项正式的体育赛事，全国定期举办。
-在日本，进门时脱鞋不仅是卫生习惯，还象征“进入另一个社交角色”。
-在古代印度，跳“萨提”（Sati）的寡妇会被视为殉夫英雄，甚至被立碑纪念。
-在中国江南，生孩子送“红鸡蛋”是祝福的习俗，象征生命和好运。
-在俄罗斯，“笑太多”会被认为轻浮不稳重，因此俄罗斯人常被误解为“冷漠”。
-在印尼雅加达，马路旁的人行道上常有公共卡拉OK机器，大家随时上去唱歌。
-在尼泊尔，国旗是世界上唯一一个非矩形国家国旗，由两个三角形叠加组成。
-在阿根廷，孩子掉牙后不是等“牙仙子”，而是把牙放在水杯里给“小老鼠”换礼物。
-在中国某些地方，老人过寿要吃“长寿面”，面条不能断，象征命长不断。
-在波兰，人们相信窗户开着睡觉容易“被风吹中”，是感冒的主要原因。
-在沙特阿拉伯，女性曾长期禁止开车，直到2018年才正式解禁。
-在日本料理中，“吃出声音”反而被视为礼貌，表示你吃得开心。
-在哈萨克斯坦，马肉被视为高级食材，甚至比牛肉还贵。
-在韩国，公司聚餐时下属不能先动筷，要等上级动了才行。
-在以色列，人们用“猫的眼睛”形容小孩很聪明，而在某些文化中这却是贬义。
-在英国，早茶文化中“加奶顺序”是老生常谈的争论话题，有人坚信先奶有人坚持先茶。
-在南非，彩虹国之称来源于其拥有11种官方语言和极其多元的族群文化。
-在古巴，婚礼上宾客可以“付钱和新娘跳舞”，每跳一次贴一次钞票，表示祝福。
-在英国，如果你在傍晚喝红茶不加奶，有些老派贵族会觉得你“没有教养”。
-在摩洛哥传统茶道中，茶要倒得“越高越好”，表示技艺好、尊重客人。
-在拉脱维亚，圣诞节不送圣诞树，而是装饰“冬至树”，传统可追溯到异教时代。
-在印度，牛被认为是神圣的，走在路中间也不能驱赶，司机必须绕行。
-在瑞典，别人请你去家里吃饭，大概率不会让你一起吃，而是让你等他们吃完。
-在美国西部某些小镇，“扔鸡蛋”是万圣节传统，象征调皮捣蛋。
-在中东某些国家，露出脚底被视为极不尊重的行为。
-在缅甸，僧侣不能碰钱，必须靠信徒捐赠食物生活。
-在尼泊尔和印度北部，“粉节（洒红节）”是全民泼彩色粉末互祝好运的节日。
-在阿尔及利亚，某些婚礼可能持续整整七天，每天都有不同服饰和仪式。
-在中国部分地区，坐月子期间产妇不能洗头、不能吹风，这是传统的“产后养气”观念。
-在巴西，国人对足球热情极高，全国假期甚至会因为世界杯比赛而临时设立。
-在伊朗，每年春分日是波斯新年“诺鲁兹”，比伊斯兰历春节还隆重。
-在印度尼西亚巴厘岛，新年第一天叫“静默日”，所有人不出门、禁用火电网，全岛静止。
-在德国南部的啤酒节（Oktoberfest）中，酒杯“啤酒大麦杯”能装下一整升啤酒。
-在沙特，传统服饰白袍（thobe）不是宗教义务，而是因应沙漠高温而形成的文化习惯。
-在意大利，餐后喝咖啡一定是“浓缩咖啡”，点拿铁反而被视为“游客”。
-在秘鲁，人们在新年凌晨互相“打架”，释放过去一年的怨气，这叫“Takanakuy”。
-在菲律宾，一些村庄新年会往屋顶开枪“迎新”，为此政府每年都要呼吁“不要用真枪”。
-古代“书生赶考”通常带一根竹竿，不是防身，而是用来挑行李睡觉时架蚊帐。
-清朝前期，男人剃发留辫并非汉族传统，而是满清推行的“剃发令”，违者斩首。
-“红色”在古代并不总是喜庆之色，周朝时代表“兵戈、肃杀”，直到唐代才变吉祥。
-中国古代的“十二时辰”一个时辰等于现在的两小时，“子时”是夜晚11点到凌晨1点。
-“上头香”在寺庙是抢第一炷香，有求好运之意，但在部分民间也寓意“牺牲”，忌讳小孩去烧。
-古人写信落款常用“草草顿首”“谨启”“再拜”等辞令，是表示谦逊敬意而非官腔。
-传统服饰“盘扣”原为实用结构设计，用来替代金属钮扣，后来变成美学符号。
-明清婚礼中新娘盖的是红布叫“盖头”，掀盖前要用秤杆或尺子象征“公平”和“丈量幸福”。
-“守岁”不是不睡觉，而是“守着新岁降临”的礼俗，民间多为熬夜到子时放炮迎年。
-古代“元宵节”又叫“上元节”，当时是青年男女少有的公开社交机会，因此也称“东方情人节”。
-“黄历”上的“宜忌”系统，源于古代干支与占星系统，不同日子配不同五行活动。
-“投壶”原是贵族宴会间的投掷游戏，后演变为礼仪竞技和考验风度的项目。
-古代宴席中“头菜”非最好吃，而是象征性安排，如“鸡头”表示“吉利开头”。
-“请安”不同于现代问好，它有严格顺序、姿态与称呼体系，体现身份与等级。
-古时考试作弊若被发现，会被冠以“作弊欺君”罪名，最重可判“斩首示众”。
-中国古代没有“筷子”一词，最早称为“箸”，“筷”是清代后期的口语演变。
-在道教传统中，正月十五是“太上老君圣诞”，所以庙会活动非常多。
-中国传统节日“寒食节”源自纪念介子推，禁火冷食三日，是清明节前身。
-“八卦”不仅是占卜符号，本义为“八种自然现象的象征组合”，反映天地万物变化。
-传统建筑中“门槛”越高，表示地位越高；也有风水寓意“挡煞、聚气”。
-地球上实际最高的山是夏威夷的冒纳凯亚火山，从海底算起比珠穆朗玛峰还高4000多米。
-中国最东、最西、最南、最北的四个端点中，最东点的太阳先升起，但时区却和北京一致。
-俄罗斯横跨11个时区，是世界上时区最多的国家。
-地球不是完美的球体，而是赤道略鼓、两极稍扁的“椭球体”。
-在地图上看，格陵兰岛和非洲差不多大，其实非洲是它的14倍，是地图投影导致的错觉。
-世界上没有与海洋接壤的国家中面积最大的是哈萨克斯坦。
-埃塞俄比亚拥有自己的日历，比我们常用的公历“落后”约7年。
-赤道附近并不总是最热的地带，部分沙漠如撒哈拉更热，是因气候带和气流影响。
-阿根廷与智利边界的安第斯山，河流流向决定了边界归属，被称为“分水岭原则”。
-“国际日期变更线”并不是直线，而是故意弯曲以避开国家和岛屿群，避免同一天两种日期。
-世界上唯一一个完全位于两大洲交界处的城市是土耳其的伊斯坦布尔（横跨欧亚）。
-撒哈拉曾是绿洲，在几千年前曾有湖泊和鳄鱼化石，是地球气候变迁的证据。
-地球自转并不是恒定的，潮汐、地震、大气活动都会让每天时间轻微波动。
-喜马拉雅山仍在“长高”，每年因印度板块挤压上升约0.5厘米。
-中国领土南北跨度非常大，海南一月可以下海游泳，黑龙江同时可能零下三十度。
-非洲大裂谷是地球表层正在“撕裂”的证据，将来可能会形成一个新海洋。
-有些国家的首都并不在最大城市，比如澳大利亚的首都是堪培拉，不是悉尼或墨尔本。
-加拿大有超过300万个湖泊，占全球淡水湖数量约60%。
-尼泊尔的国旗是唯一不是长方形的国家国旗，由两个三角形组成。
-地球上最干的地方是智利的阿塔卡马沙漠，有的地方几百年未降雨。
-地球上最冷的地方是南极的“东方高原”，曾测得 -89.2°C 的极端低温。
-地球上唯一一个同时拥有五种气候带的国家是中国（寒、温、亚热、热带、青藏高原气候）。
-地球自转并不是恒定的，极端天气、地震甚至火山喷发都能轻微改变地球的自转速度。
-世界上最热的常年居住地是伊朗的卢特沙漠，地表温度曾高达70.7°C。
-沙漠不一定热，南极其实是“最大沙漠”，因为它年降水量极低，属于“极地干旱带”。
-厄尔尼诺现象是太平洋水温异常升高，会导致全球气候大范围紊乱。
-阿尔卑斯山的冰川正以每年数米的速度融化，科学家甚至用毯子给冰川“盖被子”以减缓消融。
-亚马逊雨林被称为“地球之肺”，但它夜间也会释放二氧化碳，因此并不是绝对净吸收。
-北极并不是陆地，而是漂浮的海冰；南极才是真正的冰雪大陆。
-在某些热带雨林，雨水从树冠落到地面需要10分钟以上，因为树冠太密集。
-冰岛冬天其实不特别冷，是因为受墨西哥湾暖流调节，但夏天也并不热。
-沙特阿拉伯几乎没有河流，全国大部分淡水依赖海水淡化工厂。
-在秘鲁海岸线附近，有一种“海雾沙漠”，常年没有雨，但空气湿度极高。
-地球上风速最快的地方之一是南极的某些山谷，可达每小时320公里。
-全球平均海平面每年上升约3.3毫米，远超古代自然变化速率。
-新西兰有一个地方叫“风之谷”，一年中有300多天刮风，是世界上风最多的地方之一。
-“极昼”和“极夜”现象只发生在南北极圈内，最长可达连续六个月白天或黑夜。
-青藏高原被称为“世界第三极”，平均海拔超过4000米，是亚洲多条大河的发源地。
-有些火山终年被冰雪覆盖，却仍处于活跃状态，如意大利的埃特纳火山。
-天文潮、风暴潮和地震海啸都是“海水暴涨”的原因，但机制完全不同。
+Bees can recognize human faces.
+Starfish have no brains, but they can sense their surroundings.
+The world's longest street is Yonge Street in Canada, measuring 1,896 kilometers.
+Human stomach acid is strong enough to dissolve metal, but a protective lining prevents it from corroding the stomach wall.
+Octopuses have three hearts: two supply blood to the gills, and the other supplies blood to the body.
+You have more bones at birth than in adulthood: adults have 206 bones, while newborns have more than 270.
+A zebra's stripes are unique, just like human fingerprints.
+Kangaroos cannot hop backward.
+The Sun accounts for 99.86% of the solar system's total mass.
+The human nose can distinguish more than 10,000 different smells.
+Bananas are a natural source of radiation because they contain the radioactive isotope potassium-40.
+Seahorses are the only animals in which males become pregnant.
+Snails can sleep for three years, especially when food is scarce.
+Cows have a 360-degree field of vision, with almost no blind spots.
+Cats' hearts beat faster than humans', at roughly 140 to 220 beats per minute.
+Humans and bananas share approximately 60% of their DNA.
+Whale songs can travel hundreds of kilometers, sometimes even reaching other oceans.
+Elephants are the only animals that are not afraid of ants.
+Some turtles can breathe through their mouths.
+Flamingos get their color from their food, primarily carotenoids found in algae and small shrimp.
+Penguins are the only birds that cannot fly, but they swim very quickly, reaching 36 kilometers per hour.
+Sloths spend about 20 hours a day sleeping or resting.
+Saturn's rings are not solid; they consist of hundreds of millions of particles of ice and snow.
+Human eyes can blink approximately 4.2 billion times over a lifetime.
+The world's lightest metal is lithium, which is lighter than water.
+An Oscar statuette is 34 centimeters tall, weighs 3.8 kilograms, and consists of 80% gold and 20% silver.
+Kangaroos can hop at speeds of up to 72 kilometers per hour.
+A whale's tongue weighs as much as an elephant-sized vehicle.
+Cats' whiskers are used not only for sensing but also for judging spaces in the dark.
+Trees communicate through underground fungal networks, similar to a "forest internet."
+Humans produce approximately 1 to 1.5 liters of saliva each day.
+An elephant's pregnancy lasts 22 months, the longest of any land animal.
+Bats are the only mammals capable of sustained flight.
+Spider silk is stronger and tougher than steel; for the same weight, it can withstand greater tensile force.
+Goldfish do not have three-second memories; their memories can last for months.
+The world's smallest birds are hummingbirds, weighing only about 2.6 grams.
+Human fingernails grow approximately 3 millimeters per month.
+Some places in Turkey have "hot-spring water flowing through the streets": warm spring water travels through pipes along the streets, allowing residents to soak whenever they like.
+Horses can sleep standing up or lying down.
+Some ant species can form "floating islands" by gathering together and floating on the water's surface.
+Dolphins have names and identify one another using different calls.
+Octopus blood is blue because it contains copper-based hemoglobin.
+Trees release scents to attract or repel insects as a protective mechanism.
+Cats can rotate their ears 180 degrees, helping them hear sounds from different directions.
+Astronauts become about 2 to 5 centimeters taller in space because reduced gravity allows their spines to decompress.
+The Moon moves approximately 3.8 centimeters farther from Earth each year.
+Human skin hosts more than 200 different kinds of bacteria, most of which are harmless.
+Squirrels' front teeth never stop growing, so they must constantly wear them down.
+Seahorses are the only fish in which males are responsible for pregnancy and laying eggs.
+Hummingbirds can fly backward and are also the only birds that can hover.
+Wombat droppings are cube-shaped, helping them stay in place when used to mark territory.
+Arctic ice is actually freshwater ice, while Antarctica's ice sheet stores approximately 70% of the world's freshwater.
+Crocodiles cannot stick out their tongues because their tongues are fixed to the bottoms of their mouths.
+The human stomach completely replaces its inner lining every three to four days to prevent corrosion by stomach acid.
+Some squid have three hearts: two supply blood to the gills, and one supplies the entire body.
+Dragonflies can fly at 56 kilometers per hour, making them the fastest insects.
+Antarctica is actually Earth's largest desert when measured by precipitation.
+Rainbows are actually circular; from the ground, we can see only part of the circle.
+Humans lose approximately 50 to 100 hairs per day on average.
+Polar bears actually have black skin and transparent fur, which merely appears white.
+Lightning can reach temperatures of 30,000 degrees Celsius, five times hotter than the Sun's surface.
+A worker bee produces only about one tablespoon of honey in its lifetime.
+Earth's earliest oxygen came from cyanobacterial photosynthesis, which began about 2.4 billion years ago.
+Water bears, or tardigrades, can survive in a vacuum, under intense radiation, and at extremely low temperatures.
+Human DNA is up to 98.8% similar to chimpanzee DNA.
+Approximately seven new stars are born in the Milky Way every second.
+Earth's inner core has a temperature close to 6,000 degrees Celsius, nearly the same as the Sun's surface.
+A volcanic eruption can release more energy than hundreds of nuclear bombs.
+Trees exchange gases through stomata on their leaves while regulating water evaporation and temperature.
+Some deep-sea fish produce their own light, a phenomenon called bioluminescence.
+More than 99% of all species that have existed on Earth are extinct.
+Ginkgo trees are called "living fossils" and have existed on Earth for more than 200 million years.
+Elephants can communicate over long distances using ultrasound that humans cannot hear.
+Most of the universe consists of dark matter and dark energy, about which humans know almost nothing.
+A hummingbird's heart rate can reach 1,200 beats per minute during flight.
+The iron in a human body is enough to make a small nail two centimeters long.
+Butterflies have taste receptors on their feet.
+Relative to Earth's size, its atmosphere is about as thin as the skin of an apple.
+Earth's magnetic poles reverse every few hundred thousand years.
+Some corals are symbiotic partnerships between animals and plants; coral polyps must coexist with algae to survive.
+Earth's rotation is gradually slowing, making each day a little longer every few million years.
+Lightning can occur during volcanic eruptions and is called "volcanic lightning."
+Most mammals can synthesize vitamin C; only humans, apes, and guinea pigs have lost this ability.
+Jupiter's largest storm, the Great Red Spot, has existed for at least 350 years.
+Diamond is Earth's hardest natural substance, but some laboratory-made materials have surpassed its hardness.
+Venus rotates in the opposite direction to the other planets, so the Sun rises in the west in its sky.
+The deep sea contains a "vampire squid" that, despite its frightening name, mainly eats organic debris.
+"Diamond rain" may exist more than 150 kilometers beneath Earth's surface.
+The northern and southern lights are luminous phenomena produced by the interaction of high-energy charged particles with Earth's magnetic field.
+A person breathes approximately 100 million times per year.
+The human body has more than 600 muscles: smiling requires only 17, while frowning requires 24.
+Eating too much can impair your hearing.
+Fingernails grow four times as fast as toenails.
+Your stomach grows a new mucus lining every two weeks; otherwise, it would digest itself.
+Adults produce an average of approximately 1.5 liters of saliva per day.
+Human fetuses have fingerprints by three months of age.
+Children have more than 100 additional bones compared with adults because some bones near the joints fuse together.
+You cannot keep your eyes open while sneezing.
+The total length of your blood vessels could circle Earth more than twice.
+Blood takes about 20 seconds to circulate through your body. If someone lives to 80, their blood will circulate more than 1.2 billion times.
+Wearing headphones for an hour can increase the bacteria in your ears 700-fold.
+The human digestive system is approximately nine meters long.
+The human brain contains about 86 billion neurons and weighs approximately 1.4 kilograms.
+The buttocks help keep us stable while running.
+Urine looks very beautiful under a microscope, displaying multicolored crystals.
+At a normal body weight, the circumference of your two fists roughly matches the circumference of your kidneys.
+Your body contains approximately 7 trillion to 30 trillion cells.
+There are more bacteria in your body than body cells, and their total weight is approximately 1.5 kilograms.
+Your brain has a storage capacity of approximately 250 GB to 5 TB.
+People produce approximately 300,000 to 600,000 dead skin cells a day, meaning much of the dust in your home comes from skin you shed.
+The iron in your body could make a nail four centimeters long.
+People cannot lick their own elbows.
+Human eyes can distinguish more than 10 million colors.
+Adult bone marrow produces approximately 200 million red blood cells every day.
+The heart beats approximately three billion times over a lifetime.
+Human hearing can detect frequencies ranging from 20 to 20,000 hertz.
+Each person has approximately two square meters of skin.
+The human brain consumes approximately 20% of the body's total energy.
+The longest cell in the human body is the sciatic nerve in the leg, extending more than one meter.
+The human gut contains more than 1,000 kinds of microorganisms.
+Approximately 25 million cells die and are replaced in the human body every second.
+Human tears contain natural antibacterial enzymes that help prevent eye infections.
+Human bones are densest around age 30, after which their density gradually declines.
+People become 2 to 5 centimeters taller in space because of weightlessness.
+Earwax is actually a natural ear-canal cleaner that prevents dust and bacteria from entering.
+The tongue has approximately 2,000 to 8,000 taste buds.
+Tooth enamel is the hardest tissue in the human body.
+Babies' kneecaps are actually cartilage at birth and gradually ossify between ages two and six.
+Blood in veins is also red; it looks blue only because of light refraction.
+People are 1 to 2 centimeters shorter at night than in the morning because their spines compress during the day.
+Most people have an average of four to six dreams while sleeping, but usually remember only a small portion after waking.
+A human sneeze can reach 160 kilometers per hour.
+Cola was originally invented as a medicine to treat indigestion and nervous exhaustion.
+Microwave ovens heat food by exciting water molecules, causing them to vibrate and generate heat.
+Eating ice cream too quickly can cause "brain freeze," which actually results from sudden constriction of blood vessels in the brain.
+In a completely silent environment, people can hear their own heartbeats and blood flowing.
+Stainless steel can actually rust, but much more slowly than ordinary steel.
+Tomatoes are botanically fruits, but are generally used as vegetables in cooking.
+The world's longest-lasting light bulb has been continuously lit for more than 120 years.
+Most mobile phones are actually millions of times more powerful than the computers used in the Apollo spacecraft that went to the Moon.
+Human fingernails grow faster in summer than in winter.
+Coffee beans are actually seeds inside the fruit of the coffee tree.
+Cold and warm water are almost equally effective at removing bacteria during handwashing; what matters is how long and how thoroughly you rub your hands.
+Lactose intolerance is a variation arising during human evolution; originally, adults were not supposed to retain the ability to digest lactose.
+Potato-chip bags are filled with nitrogen rather than air to prevent oxidation and breakage.
+Approximately two billion cups of coffee are consumed worldwide every day.
+The "silicone-free" label on some shampoos does not indicate an absolute benefit or harm to the scalp; it is largely a marketing label.
+Yawning is "socially contagious": seeing someone else yawn activates the brain's mirror neurons.
+The lips have the thinnest skin on the body, consisting of only about three to five cell layers.
+Honey is one of the few natural foods that can remain unspoiled almost forever.
+Cutting onions makes you cry because released sulfur compounds react with the water in your tears to form sulfuric acid.
+Toilets flush in slightly different directions on opposite sides of the equator, a weak manifestation of the Coriolis effect.
+Ice conducts electricity more readily than water, so spilling an iced drink on an electronic device is more likely to cause a short circuit.
+The earthy smell of soil after rain comes from geosmin produced by actinomycetes.
+Mint flavoring in toothpaste not only freshens the mouth but also stimulates nerves to reduce oral pain.
+Food in microwave ovens often heats unevenly because standing-wave nodes form in certain locations.
+Left-handed people make up approximately 10% of the world's population, but have natural advantages in certain sports.
+Fabric softener works by giving clothing surfaces a weak static charge, reducing friction.
+Most airline meals are fully cooked on the ground and only need reheating in the air.
+A mobile phone's vibration function works through a small, unbalanced motor spinning rapidly to generate centrifugal force.
+Mosquitoes prefer biting people with higher body temperatures, faster breathing, and more active metabolisms.
+Plastic bottle caps are harder to break down than the bottles because they use different materials: bottles usually use PET, while caps use HDPE.
+Prolonged exposure to blue light can suppress melatonin production and affect sleep.
+Mirrors in elevators were originally designed to ease passengers' anxiety while waiting.
+When adding milk to tea, pour the tea first and then the milk to prevent the proteins from coagulating at high temperatures.
+Some people's genes cause them to perceive cilantro's aldehydes as soapy, producing its "unpleasant smell."
+Instant noodles contain very few preservatives; they are preserved mainly through dehydration.
+Tiles feel cold under bare feet because they conduct heat quickly, rather than because their temperature is low.
+Colds are caused by viral infections rather than exposure to cold; cold weather merely makes viruses easier to spread.
+Supermarket background music usually has a slow tempo to encourage customers to walk more slowly and browse longer.
+People burn approximately 15% more calories while awake than while asleep.
+Clothes hung in a shady, well-ventilated place sometimes dry more readily than in strong sunlight because strong wind accelerates evaporation.
+Fingernails on the dominant hand usually grow faster than those on the other hand.
+Smelling citrus can briefly improve attention and concentration.
+Chewing ice causes considerable damage to tooth enamel and can create microscopic cracks.
+Modern banknotes are not made entirely of paper; most consist of a mixture of cotton fibers and polymers.
+Pouring cola into a rusty screw hole can help remove rust because cola contains phosphoric acid.
+Bananas naturally curve because of phototropism: as they grow, they bend toward the light.
+Black ink in color printers is called "K" because "B" could be confused with blue.
+Freshly brewed coffee actually tastes less bitter; its bitterness becomes much stronger as it cools.
+Indoor plants can improve humidity, but their ability to purify the air is very limited.
+Natural crystallization of honey is normal and indicates high purity.
+Cut apples change color because phenolic compounds in the flesh oxidize in the air, causing browning.
+Hooks on the backs of high-speed train seats were designed for hanging coats or shopping bags, rather than as decoration.
+Hair breaks more readily in humid environments because keratin absorbs water and swells, reducing its toughness.
+Covering your mouth with your hand when coughing concentrates many droplets on your hand, making germs easier to spread.
+Ultrasonic cleaners use the "cavitation effect" to dislodge dirt.
+Hotel sheets are usually plain white to make bleaching, high-temperature disinfection, and stain detection easier.
+Flossing is far more important for cleaning than brushing, but is often overlooked.
+Most people have small differences in vision between their left and right eyes, which are difficult to notice in daily life.
+Most elevator buttons respond immediately when pressed; pressing repeatedly does not speed things up.
+Airport runway numbers come from their magnetic bearings: for example, "09" represents 90 degrees, due east.
+The "new clothes smell" sometimes found on newly purchased clothing comes from chemical residues left by wrinkle-resistant and antibacterial treatments.
+LED bulbs do not readily attract insects because they produce almost no ultraviolet light.
+The more frequently a refrigerator door is opened, the faster frost builds up inside.
+A moving car tire's contact area with the ground is actually only about the size of a postcard.
+People may experience ringing in their ears on a mountaintop because reduced air pressure causes the eardrum to stretch slightly.
+The desiccants in takeout containers are mostly silicon dioxide; they cannot be eaten, but are not toxic.
+The numbers on the bottoms of plastic bottles indicate the type of material, rather than how many times the bottles can be reused.
+More razor blades are not necessarily better; additional blades are more likely to pull on the skin.
+Earthworms often emerge onto roads after rain because oxygen levels in the soil decrease and they come out to breathe.
+Chewing gum is not digested in the stomach, but usually passes out of the body without difficulty.
+Fresh milk has a slight bluish tint because its proteins refract light.
+Tannins in red wine bind to proteins in the mouth, creating an astringent sensation.
+Human skin has approximately three million sweat glands.
+Bathwater hotter than 40°C can damage the skin's surface oil barrier.
+Prolonged headphone use can increase humidity in the ear canal, encouraging bacterial growth.
+Most subway trains use steel wheels on steel rails, a system far more efficient than rubber tires.
+The policy of adding iodine to ordinary table salt has effectively prevented widespread goiter.
+Sleeping with a pillow that is too high affects the curve of the cervical spine and can cause neck and shoulder discomfort over time.
+Colds are caused by viral infections rather than getting chilled; cold merely makes viruses easier to spread.
+Urine is actually sterile under normal conditions.
+During a thunderstorm, lightning happens first; the sound of thunder arrives later because of the difference between the speeds of light and sound.
+Human body temperature is not fixed at 37°C; healthy people's temperatures can fluctuate between 36.1°C and 37.2°C.
+Coffee does not actually "replenish energy"; it temporarily suppresses the brain's fatigue signals.
+Cutting your nails does not hurt because the nails themselves have no nerves.
+Most of Earth's oxygen comes from marine phytoplankton rather than forests.
+Human bones are harder than steel in terms of compressive strength per unit weight.
+Shaving does not make hair thicker; the cut ends of newly growing hair simply look thicker.
+The Arctic is not Earth's coldest place; Antarctica is much colder.
+Vitamin C cannot directly cure a cold; it only has a slight supporting role in prevention.
+The environmental significance of banning plastic straws is actually very limited; fishing nets and large plastic waste are the main sources of plastic pollution.
+Human brain size and intelligence are not directly proportional.
+People with diabetes can eat sugar; the key is controlling total intake and managing blood glucose.
+Lightning can occur in skies without rain, a phenomenon called "dry lightning."
+Bananas are actually berries, while strawberries are not true berries botanically.
+The process of human aging actually begins to pick up gradually after age 25.
+Split ends result from breaks in keratin chains and have little to do with nutritional supplementation.
+Skyscrapers are designed to sway slightly to withstand strong winds and earthquakes.
+Microwave heating does not actually destroy nutrients; it preserves more nutrients than boiling or frying.
+Goldfish do not have three-second memories; their memories can last for months.
+Lightning can strike the same place repeatedly, especially tall buildings and tower tips.
+Taking too many vitamin tablets can actually harm your health.
+Running does not necessarily damage the knees; sensible running can actually protect them.
+Space is not completely "gravity-free"; it is a "microgravity" environment.
+Glaciers actually flow, but extremely slowly.
+Milk contains no iron, so babies who consume only milk for a prolonged period are prone to anemia.
+Sleeping with wet hair does not directly cause a cold, but can encourage bacterial growth and fungal infections.
+Drinking ice water does not speed up fat burning; the number of calories expended is extremely small.
+A phone's nighttime eye-protection mode reduces blue-light stimulation, but cannot completely prevent disruption of the body clock.
+Astronauts do not actually "float motionless" in space; their bodies continue moving slowly.
+Brighter bulbs do not necessarily consume more electricity; LEDs can be more efficient at higher brightness.
+The main purpose of yawning is not to address oxygen deprivation, but to help cool the brain.
+The idea that "sweating removes toxins" is a misconception; most toxins are metabolized and eliminated by the liver and kidneys.
+Blood is red because of the iron ions in hemoglobin, rather than an intrinsic color of the blood itself.
+A phone's airplane mode does not completely block radiation; it merely interrupts signal communication.
+The theobromine in chocolate is toxic to dogs, but humans can metabolize it safely.
+Pain from a broken bone comes mainly from damage to surrounding tissues rather than the bone itself.
+Drinking more water cannot "dilute blood sugar"; blood glucose is regulated by insulin.
+Our visual blind spots are filled in every day as the brain automatically reconstructs the areas we cannot see in real time.
+The most frequently used Chinese character is "的" (de).
+English has the most speakers worldwide, but Chinese has the most native speakers.
+In ancient Chinese, "你" (ni) originally served as a respectful form of address, while "汝" (ru) was the ordinary form.
+The world's longest word comes from chemistry: it has 180,000 letters and is the chemical name of a protein.
+The Japanese expression "ありがとう" (arigatou, "thank you") originally meant "something that rarely happens."
+The Korean alphabet, Hangul, was deliberately designed; its inventor was King Sejong the Great.
+"Set" has the most definitions of any English word, with more than 430 meanings in dictionaries.
+"Emoji" comes from the Japanese "絵文字" (picture characters); it is not an abbreviation of "emotion + icon."
+In French, 80 is "four times twenty" (quatre-vingts), rather than "eighty."
+In Italian, "ciao" can mean both "hello" and "goodbye."
+The Chinese character "囍" is not actually a variant character; it combines two "喜" characters side by side and is commonly used at weddings.
+The "ü" in Chinese pinyin is actually the same as the German "ü," with exactly the same sound value.
+Russian "да" (yes) and "нет" (no) can reverse their logic in different contexts, which can be confusing.
+In Old English, "girl" originally meant "young person" and could refer to either a boy or a girl.
+Latin had no full stops; ancient texts were written continuously, and readers had to rely on their feel for the language to identify sentence boundaries.
+In some African languages, "burps" or "tongue clicks" form part of the speech sounds.
+Linguistics has no absolute concept of a "primitive language"; all languages have rules and systems.
+The Finnish word "kalsarikännit" refers to "getting drunk at home alone in your underwear."
+Chinese is the world's only major language system that still widely uses ideographic writing.
+Before babbling, babies can distinguish phonemes from almost all languages, but training in their native language later limits their perceptual range.
+The Chinese character "他" originally referred to both men and women; forms such as "她" and "它" were deliberately differentiated only in the 20th century.
+In ancient Chinese, "吾," "我," "余," and "予" could all mean "I," but differed in tone and the speaker's status.
+The English word "goodbye" actually comes from "God be with ye."
+"Nice" originally meant "foolish" in Old English and acquired its meaning of "good" only after several semantic changes.
+The French word "chaussette" (sock) comes from the Latin "calceus," meaning "shoe."
+"Robot" comes from Czech and originally meant "laborer" or "forced worker."
+Ancient forms of the Chinese character "爱" (love) did not contain the component "心" (heart); its modern structure is a revival of an older form introduced during simplification.
+The original meaning of the Japanese "すみません" (sumimasen, "sorry") was closer to "it makes me feel uneasy"; its use to express an apology is an extension.
+Some languages are "whistled languages," using whistles to communicate, such as the language of Kuşköy in Turkey.
+Much of the confusion in modern English spelling results from spelling not yet being standardized when Gutenberg's printing technology spread.
+The English word "window" comes from Old Norse "vindauga," meaning "wind eye."
+German nouns must begin with capital letters; very few languages have this rule.
+Latin did not have the letters "J" and "W"; both developed later.
+In linguistics, double negatives intensify a statement in many languages rather than making it affirmative.
+Finnish has almost no future tense; it expresses the future using the present tense and context.
+Arabic is written from right to left, but numbers are written from left to right, making it the world's only mainstream writing system that mixes both directions.
+"OK" may originally have been a joking abbreviation used during an American president's election campaign, meaning "all correct" deliberately misspelled as "oll korrect."
+"Hamburger" does not mean "ham burger"; it originated in the German city of Hamburg.
+The root of the word for "mother" resembles "ma" in many languages because babies instinctively favor sounds made with both lips.
+The world's only language "without native speakers" is Esperanto, an invented language, although many children today grow up speaking it as their first language.
+The Japanese phrase "失礼します" (shitsurei shimasu) is used not only when taking one's leave, but also when entering a room or interrupting someone.
+The English word "wife" comes from Old English "wif," originally meaning "woman"; its meaning of "wife" developed later.
+The Chinese word "电脑" (computer) is a modern coinage; early usage in Hong Kong and Taiwan included "computer machine," "electronic brain," and even "intelligence machine."
+The Korean "oppa" (older brother) is used not only for family relationships but also between romantic partners, sometimes with an affectionate or coy tone.
+In Swedish, "gift" can mean both "married" and "poisonous," so marriage is…?
+The world's longest official language name is a Māori place name in New Zealand: "Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu."
+Latin had no lowercase letters; they were invented in the Middle Ages to make copying more efficient.
+Ancient Egyptian hieroglyphs included a character depicting "a person defecating," which was actually used in texts about toilets or excretion.
+Japanese kanji have "on" readings and "kun" readings, meaning a single character often has two or more completely different pronunciations.
+Sounds such as "z," "c," and "zh" in modern Chinese pinyin seem completely counterintuitive as spelling combinations to Westerners.
+"Hello" was not originally a greeting; in the early 19th century, it merely expressed a shout or attracted attention.
+One of the world's hardest words to translate is the Portuguese "saudade," describing a blend of longing, sadness, and sweetness.
+French has a grammatical form called the "pluperfect subjunctive" that almost nobody uses, but grammar books always teach.
+Highland barley is called "ནས་" in Tibetan; it is a staple food in Tibet and also a word symbolizing identity.
+English "they" is now officially recognized as a singular gender-neutral pronoun for a person whose gender is unspecified.
+Everyday spoken Hindi and Urdu are almost identical, but their writing systems are completely different: Hindi uses Devanagari, while Urdu uses Persian script.
+"Alphabet" comes from the Greek "alpha + beta" and literally means the set of letters.
+Some languages, such as Filipino, mix English words into sentences; locals call this "Taglish" (Tagalog + English).
+The word for "language" is "言語（げんご）" (gengo) in Japanese and "언어" (eoneo) in Korean; both derive from the Chinese character "言."
+In Old English, "girl" did not specifically mean a female child; it referred generally to a young person of either sex.
+"Book" and "beech" are etymologically related because early Europeans carved writing into beechwood tablets.
+In English, "friend" can be a verb, as in "I friended her on Facebook."
+"Sheriff" comes from "shire reeve," meaning the administrator of a shire, a government office in medieval England.
+"Muscle" comes from Latin "musculus," originally meaning "little mouse," because ancient people thought muscles resembled mice moving beneath the skin.
+The longest English word without vowels is "rhythms."
+"Awful" originally meant "full of awe," similar to "awesome"; later semantic change gave it the meaning "terrible."
+"I" is the only English pronoun that must be capitalized, a very rare phenomenon in language.
+Although the "K" in "knight" is silent today, it was pronounced in Middle English, something like "kuh-nicht."
+English spelling is inconsistent because regional pronunciations had not been standardized when printing spread in the Middle Ages, but spellings became fixed.
+"Orange" is a color name in English, but it originally referred to the fruit; its use for the color came later.
+"Goodbye" comes from "God be with ye," which evolved into its current form through phonetic contraction.
+The word "alphabet" itself is "alpha + beta," from the first and second letters of the Greek alphabet.
+One of the longest English words is "antidisestablishmentarianism," but it is not the hardest; the longest is a chemical name with 180,000 letters.
+"Nice" was once an insult, meaning "foolish" or "clumsy" in the Middle Ages.
+In Shakespeare's time, "thou" was used for familiar people or those of lower status, while "you" was the respectful form.
+"Pineapple" originally meant "pine cone" and later came to mean the tropical fruit because of its similar shape, rather than an apple.
+"Cleave" can mean both "split apart" and "cling closely," making it one of the few words with opposite meanings.
+"Let" means "allow," but also retains the old meaning "hinder," as in a "let ball" in tennis.
+The spelling of "pronunciation" was deliberately made different from "pronounce" by linguists to emphasize its nominalized form.
+In ancient China, red did not always symbolize celebration; during the Warring States period, it was also used for mourning clothes.
+The Western custom of raising a glass originated in medieval rituals against poisoning: people clinked glasses to mix their drinks and demonstrate that they were not poisoned.
+Egyptian pharaohs often had themselves depicted as "half-beasts" to symbolize divine authority rather than for aesthetic reasons.
+Eating mochi is a Japanese New Year custom, but people choke to death on it every year, so the government issues annual warnings.
+Italians consider 13 unlucky, Brazilians consider 24 unlucky, and Japanese people consider 4 and 9 unlucky; superstitions about numbers vary by culture.
+Eating with the right hand is proper etiquette in India; the left hand is considered unclean.
+The ancient Greek Olympic Games were originally held in the nude, with athletes competing naked to display the beauty of the human body.
+Traditional Tibetan funerals include "sky burial," in which the body is offered to vultures, considered a way of respecting nature.
+The Western wedding custom of wearing a ring on the left ring finger originated in the ancient Egyptian belief that this finger connected directly to the heart.
+Koreans are considered one year old at birth rather than zero under their traditional age-counting system.
+In Madagascar, some ethnic groups periodically take out their ancestors' remains and dance with them to express remembrance.
+Sweeping is avoided during Vietnamese New Year because it is believed to sweep away good luck, similar to China's tradition of not sweeping on the first day of the lunar year.
+Pork is generally not eaten in Arab countries, both for religious reasons and because pigs are difficult to raise in the desert.
+Spiral staircases in medieval European castles usually turned clockwise to make defense easier for guards holding swords in their right hands.
+British afternoon tea began as a private habit among aristocratic women to relieve hunger before dinner and only later became popular.
+Thailand's royal family is regarded as extremely sacred; insulting it can bring severe punishment, and even stepping on a portrait printed on Thai currency may be illegal.
+Ancient China favored sons over daughters, but also had the idea that "women manage the household"; women commonly controlled cooking and household finances.
+During Ramadan in the Middle East, eating and drinking are forbidden during the day, but lavish meals to break the fast are often held at night.
+The Western belief that black cats are unlucky originated in medieval witch legends; in Japan, black cats instead symbolize good luck.
+The Maya civilization had no metal tools, yet could calculate solar eclipses and planetary cycles precisely, with astonishingly accurate calendars.
+In Mongolia, handing something to another person with your right hand while lightly touching your right arm is considered polite.
+Africa's Maasai people greet others by asking "How are your cattle?" rather than "How are you?"
+Argentinians eat dinner very late, often not beginning until after 9 p.m.
+In Russia, arriving at someone's home empty-handed is impolite; even bringing a bag of candy is better than bringing nothing.
+In Thailand, touching someone's head is a serious offense; even children's heads should not be touched casually.
+The Western Santa Claus's red outfit was established and popularized by Coca-Cola advertising in the 1930s.
+Indian weddings lasting three days and nights are not unusual; the rituals are so complex that outsiders often struggle to follow them.
+Vietnamese grave visits are called "Qingming," but visits around the first lunar month for the Spring Festival differ from the Chinese Qingming tradition.
+Americans are not skilled with chopsticks, but Korean and Japanese chopstick practices also differ: Japanese chopsticks are usually thin and wooden, while Korean ones are mostly metal and patterned.
+In Finland, using public saunas is an everyday social activity, and being naked does not imply shame.
+Mexico's Day of the Dead commemorates the deceased, but has a festive atmosphere, with people eating sugar skulls and wearing skull makeup.
+In traditional Arab hospitality, three cups of tea symbolize "life," "love," and "death," respectively.
+Nigeria has more than 250 languages, making it one of the world's most linguistically diverse countries.
+In Switzerland, the law prohibits flushing toilets after 10 p.m. in apartment buildings to avoid disturbing others with noise.
+In Iran, an initial invitation is often merely polite; the other person must insist three times before they are "really invited to dinner."
+Name-taboo culture was extremely strong in ancient China: even an emperor's personal name could not be written, and characters sometimes had to be changed to avoid it.
+Ethiopia uses its own 13-month calendar, which differs from the Gregorian calendar by seven to eight years.
+In Japan, silence is often viewed as an expression of politeness and careful thought rather than awkwardness.
+In Norway, people hide their brooms at Christmas because of an old superstition about preventing witches from flying.
+In Islamic countries, eating, drinking, smoking, and consuming water are forbidden from sunrise to sunset during Ramadan; violating this is considered a serious offense.
+In Iceland, telephone directories are arranged by given name rather than surname because people have no "surnames," only patronymics or matronymics.
+At Egyptian weddings, the bride is allowed to step on the groom's foot, symbolizing her future authority in the household.
+Women in ancient China avoided having the characters "贞" (chastity) or "烈" (fierce virtue) in their names, or they might be constrained by morality for life.
+In some Kenyan tribes, spitting on someone is a blessing that symbolizes good luck.
+In Spain, people eat 12 grapes within the 12 seconds of the midnight chimes on New Year's Eve, each symbolizing good luck for one month.
+In Japan, people should decline a red-envelope gift several times before accepting it to appear properly courteous.
+In India, a pre-wedding turmeric ceremony involves coating the bride's and groom's bodies with turmeric powder to symbolize purification and blessings.
+The "cold palace" in ancient Chinese imperial palaces was not a specific room, but a general term for areas where out-of-favor concubines were confined.
+In Denmark, if you are still unmarried at 30, friends may cover you in cinnamon powder, a teasing tradition with a hint of pressure to marry.
+In some areas of southern China, funerals traditionally employ professional mourners; louder crying indicates greater filial devotion.
+In France, having a beard symbolizes philosophical thought and maturity in some settings, while in Japanese workplaces it may be considered unclean.
+In Germany, wishing someone a happy birthday early is considered very unlucky.
+In New Zealand's Māori culture, pressing noses together is a traditional greeting expressing welcome and the sharing of the breath of life.
+In Bali, babies must not touch the ground during their first three months, symbolizing their sacredness and freedom from worldly contamination.
+In the Philippines, the Christmas season begins in September, making it almost the world's longest Christmas celebration.
+In Morocco, drinking mint tea is part of hospitality; the host must pour three rounds, symbolizing "life," "love," and "friendship."
+In Bali, Indonesia, many people have no surnames and are named simply according to birth order: for example, "Wayan" for the first child and "Made" for the second.
+In France, placing bread upside down on the table is very impolite and considered disrespectful to others.
+Among some ethnic groups in southwestern China, coming-of-age ceremonies involve carrying one's mother for a stretch of road to express growth and gratitude.
+In the United States, children put lost teeth under their pillows and wait for the Tooth Fairy to exchange them for money, a widespread childhood ritual.
+In Norway, students wear special overalls called russedress after their university entrance examinations and celebrate graduation with two weeks of wild partying.
+In traditional Miao culture in southwestern China, girls express affection for boys they like by tossing embroidered balls.
+In Benin, Africa, Vodun is a legally recognized religion, and its practitioners have a status comparable to doctors.
+In Finland, mobile-phone throwing is an official sporting event held regularly across the country.
+In Japan, removing shoes when entering a home is not only a hygiene habit but also symbolizes entering a different social role.
+In ancient India, widows who performed sati were viewed as heroines who died for their husbands and were sometimes commemorated with monuments.
+In China's Jiangnan region, giving red eggs after a child's birth is a custom of blessing that symbolizes life and good luck.
+In Russia, smiling too much can be seen as frivolous and unserious, so Russians are often misunderstood as cold.
+In Jakarta, Indonesia, public karaoke machines are often found on roadside sidewalks, allowing anyone to step up and sing.
+Nepal's national flag is the world's only nonrectangular national flag, consisting of two overlapping triangles.
+In Argentina, children who lose teeth do not wait for the Tooth Fairy; they put their teeth in a glass of water for a little mouse to exchange for gifts.
+In some parts of China, elderly people eat longevity noodles on their birthdays; the noodles must not break, symbolizing an uninterrupted long life.
+In Poland, people believe sleeping with an open window can cause them to be "struck by the wind," a major cause of colds.
+Women in Saudi Arabia were prohibited from driving for many years, until the ban was officially lifted in 2018.
+In Japanese dining, making noise while eating is considered polite and shows that you are enjoying your food.
+In Kazakhstan, horse meat is considered a premium ingredient and is even more expensive than beef.
+At company dinners in Korea, subordinates must wait until their superiors begin eating before picking up their chopsticks.
+In Israel, people describe a very clever child as having "cat's eyes," while in some cultures this expression is derogatory.
+In British tea culture, the order in which milk is added is a longstanding debate: some insist on milk first, others on tea first.
+South Africa's nickname, the "Rainbow Nation," comes from its 11 official languages and highly diverse ethnic cultures.
+At Cuban weddings, guests can pay to dance with the bride, attaching a banknote each time as a blessing.
+In Britain, some old-fashioned aristocrats consider drinking black tea without milk in the evening to be ill-mannered.
+In traditional Moroccan tea service, pouring from a greater height shows skill and respect for the guest.
+In Latvia, people decorate a "winter solstice tree" rather than give a Christmas tree, a tradition dating back to pagan times.
+In India, cows are considered sacred; even when they walk in the middle of the road, they cannot be driven away, and drivers must go around them.
+In Sweden, if someone invites you to their home for dinner, they will most likely have you wait until they finish eating rather than let you join them.
+In some small towns in the western United States, throwing eggs is a Halloween tradition symbolizing mischief.
+In some Middle Eastern countries, showing the soles of your feet is considered extremely disrespectful.
+In Myanmar, monks cannot touch money and must live on food donated by followers.
+In Nepal and northern India, Holi, the festival of colors, involves everyone throwing colored powders at one another to wish each other good luck.
+In Algeria, some weddings can last a full seven days, with different clothing and ceremonies each day.
+In some parts of China, women must not wash their hair or be exposed to wind during postpartum confinement, reflecting the traditional idea of nourishing vital energy after childbirth.
+Brazilians are intensely passionate about soccer, and national holidays may even be declared temporarily for World Cup matches.
+In Iran, the spring equinox marks the Persian New Year, Nowruz, which is celebrated more grandly than the Islamic New Year.
+In Bali, Indonesia, the first day of the new year is called the Day of Silence: everyone stays indoors, fire, electricity, and internet use are prohibited, and the whole island stands still.
+At Oktoberfest in southern Germany, the large beer mugs hold a full liter of beer.
+In Saudi Arabia, the traditional white robe, the thobe, is not a religious obligation but a cultural custom developed in response to desert heat.
+In Italy, coffee after a meal must be espresso; ordering a latte instead marks you as a tourist.
+In Peru, people fight one another in the early hours of New Year's Day to release resentment from the past year; this is called Takanakuy.
+In the Philippines, some villages welcome the new year by firing guns toward rooftops, prompting the government to issue annual appeals against using real guns.
+Ancient Chinese scholars traveling to examinations usually carried a bamboo pole, not for self-defense but to carry luggage and support a mosquito net while sleeping.
+In the early Qing dynasty, men's shaved heads and queues were not a Han Chinese tradition but the result of a Qing-imposed shaving decree; those who disobeyed were beheaded.
+Red was not always a festive color in ancient China: in the Zhou dynasty it represented warfare and solemn killing, becoming auspicious only in the Tang dynasty.
+Ancient China's 12 daily time periods each equaled two modern hours; the "zi" period lasted from 11 p.m. to 1 a.m.
+Offering the first incense at a temple means competing to burn the first stick for good luck, but in some folk traditions it also implies sacrifice, so children are discouraged from doing it.
+Ancient letter writers often signed off with phrases such as "hastily bowing my head," "respectfully submitting," and "bowing twice" to express humility and respect rather than bureaucratic formality.
+Traditional clothing's knotted buttons were originally a practical design replacing metal buttons and later became an aesthetic symbol.
+At Ming- and Qing-dynasty weddings, the bride wore a red cloth called a bridal veil; a steelyard rod or ruler was used to lift it, symbolizing fairness and "measuring happiness."
+Staying up on New Year's Eve was not simply about avoiding sleep, but about keeping watch as the new year arrived; people commonly stayed up until the zi period and set off firecrackers to welcome it.
+The ancient Lantern Festival was also called the Shangyuan Festival; it offered young men and women one of their few opportunities for public socializing, so it was also called the "Eastern Valentine's Day."
+The system of auspicious and inauspicious activities in the Chinese almanac originated in ancient heavenly-stem, earthly-branch, and astrological systems, assigning different five-element activities to different days.
+Pitch-pot began as a throwing game at aristocratic banquets and later developed into a ritual competition and a test of composure.
+The first dish at an ancient banquet was not necessarily the tastiest but was arranged symbolically; for example, a chicken's head signified an auspicious beginning.
+Formal greetings in ancient China differed from modern greetings: strict rules governed order, posture, and forms of address, reflecting status and hierarchy.
+Being caught cheating in an ancient examination could lead to a charge of "cheating and deceiving the emperor," with public beheading as the most severe punishment.
+Ancient China did not have the word "筷子" (chopsticks); they were first called "箸," while "筷" developed colloquially in the late Qing dynasty.
+In Taoist tradition, the 15th day of the first lunar month is the birthday of the Most High Lord Lao, so many temple fairs take place then.
+China's traditional Cold Food Festival commemorates Jie Zitui and involved three days without fire and with cold food; it was the predecessor of the Qingming Festival.
+The eight trigrams are more than divination symbols; they originally represented combinations symbolizing eight natural phenomena and reflected changes in heaven, earth, and all things.
+In traditional architecture, a higher threshold indicated higher status; it also had the feng shui meaning of blocking harmful influences and gathering vital energy.
+Earth's actual tallest mountain is Hawaii's Mauna Kea volcano, which is more than 4,000 meters taller than Mount Everest when measured from the seafloor.
+Among China's easternmost, westernmost, southernmost, and northernmost points, the Sun rises first at the easternmost point, but it uses the same time zone as Beijing.
+Russia spans 11 time zones, the most of any country in the world.
+Earth is not a perfect sphere but an ellipsoid, slightly bulging at the equator and flattened at the poles.
+Greenland and Africa look about the same size on maps, but Africa is actually 14 times larger; the illusion is caused by map projection.
+Kazakhstan is the world's largest landlocked country.
+Ethiopia has its own calendar, approximately seven years "behind" the commonly used Gregorian calendar.
+Areas near the equator are not always the hottest; some deserts, such as the Sahara, are hotter because of climatic zones and air currents.
+In the Andes along the Argentina–Chile border, river flow determines which country territory belongs to, a concept called the watershed principle.
+The International Date Line is not straight; it deliberately bends around countries and island groups so they do not have two different dates on the same day.
+The world's only city located entirely at the meeting point of two continents is Istanbul, Turkey, which spans Europe and Asia.
+The Sahara was once an oasis; lakes and crocodile fossils from thousands of years ago provide evidence of changes in Earth's climate.
+Earth's rotation is not constant; tides, earthquakes, and atmospheric activity cause small variations in the length of each day.
+The Himalayas are still growing taller, rising about 0.5 centimeters per year because of pressure from the Indian plate.
+China spans a vast distance from north to south: people can swim in the sea in Hainan in January while temperatures in Heilongjiang may simultaneously be minus 30 degrees Celsius.
+Africa's Great Rift Valley shows that Earth's surface is being torn apart and may eventually form a new ocean.
+Some countries' capitals are not their largest cities: for example, Australia's capital is Canberra rather than Sydney or Melbourne.
+Canada has more than three million lakes, accounting for approximately 60% of the world's freshwater lakes.
+Nepal's flag is the only national flag that is not rectangular; it consists of two triangles.
+Earth's driest place is Chile's Atacama Desert, where some locations have had no rain for hundreds of years.
+Earth's coldest place is Antarctica's "Eastern Plateau," where an extreme temperature of -89.2°C has been recorded.
+China is the only country on Earth with all five climatic zones: cold, temperate, subtropical, tropical, and Tibetan Plateau climates.
+Earth's rotation is not constant; extreme weather, earthquakes, and even volcanic eruptions can slightly alter its rotational speed.
+The world's hottest permanently inhabited place is Iran's Lut Desert, where surface temperatures have reached 70.7°C.
+Deserts are not necessarily hot: Antarctica is actually the largest desert because its annual precipitation is extremely low, placing it in the polar arid zone.
+El Niño is an abnormal rise in Pacific Ocean water temperatures that can cause widespread disruption of the global climate.
+Glaciers in the Alps are melting by several meters per year; scientists even cover glaciers with blankets to slow the melting.
+The Amazon rainforest is called the "lungs of the Earth," but it also releases carbon dioxide at night, so it is not an absolute net absorber.
+The Arctic is not land but floating sea ice; Antarctica is the true continent of ice and snow.
+In some tropical rainforests, rain takes more than 10 minutes to reach the ground from the canopy because the canopy is so dense.
+Iceland is not particularly cold in winter because the Gulf Stream moderates its climate, but its summers are not hot either.
+Saudi Arabia has almost no rivers, and most of its freshwater depends on seawater desalination plants.
+Near Peru's coast, there is a type of "sea-fog desert" that receives no rain year-round but has extremely high humidity.
+Some Antarctic valleys are among Earth's windiest places, with winds reaching 320 kilometers per hour.
+Global mean sea level rises approximately 3.3 millimeters per year, far exceeding the rate of natural change in ancient times.
+New Zealand has a place called the "Valley of the Wind," where it is windy for more than 300 days a year, making it one of the world's windiest places.
+Polar day and polar night occur only within the Arctic and Antarctic Circles, with daylight or darkness lasting up to six consecutive months.
+The Tibetan Plateau is called the world's "Third Pole," has an average elevation above 4,000 meters, and is the source of several major Asian rivers.
+Some volcanoes are covered in snow and ice year-round yet remain active, such as Mount Etna in Italy.
+Astronomical tides, storm surges, and earthquake-generated tsunamis can all cause sudden rises in seawater, but their mechanisms are entirely different.
